@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed0d13ea-0fe5-43c5-838f-d45e0f8d2766" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed0d13ea-0fe5-43c5-838f-d45e0f8d2766" name="변경" comment="sdfsdf">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,8 +205,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650613345261</updated>
-      <workItem from="1650613346664" duration="7356000" />
+      <workItem from="1650613346664" duration="7422000" />
     </task>
+    <task id="LOCAL-00001" summary="sdfsdf">
+      <created>1650636906292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650636906292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +230,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sdfsdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdfsdf" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
