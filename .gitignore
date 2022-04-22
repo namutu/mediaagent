@@ -1,7 +1,7 @@
-.idea/
-.gradle/
-.settings/
-build/
-gradle/
+.idea/*
+.gradle/*
+.settings/*
+build/*
+gradle/*
 
-shell/
+shell/*
