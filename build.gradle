@@ -1,0 +1,43 @@
+
+plugins {
+    id 'java'
+    id 'idea'
+}
+
+group = 'mediaagent'
+version = '1.0'
+description = 'mediaagent'
+java.sourceCompatibility = JavaVersion.VERSION_1_8
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    enabled = true
+    manifest {
+        attributes('Main-Class': 'com.mediaagent.main.MediaAgent')
+    }
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+    }
+}
+
+dependencies {
+    implementation 'commons-io:commons-io:2.6'
+    implementation 'org.apache.tika:tika-core:1.20'
+    implementation 'org.apache.tika:tika:1.20'
+
+    implementation 'org.slf4j:slf4j-api:1.7.25'
+    implementation 'org.apache.logging.log4j:log4j-core:2.11.0'
+
+    runtimeOnly 'org.slf4j:jcl-over-slf4j:1.7.25'
+    runtimeOnly 'org.slf4j:slf4j-log4j12:1.7.25'
+}
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/constants/MAConsts.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/filehandler/MovieHandler.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/filehandler/SubtitleHandler.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/filehandler/TvshowHandler.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/filehandler/WatchHandler.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/timer/MovieRefresh.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/timer/SubtitleRefresh.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/timer/TvshowRefresh.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/util/KeyManager.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/com/mediaagent/util/MediaAgentUtil.java" charset="UTF-8" />
+    <file url="PROJECT" charset="EUC-KR" />
+  </component>
+</project>
